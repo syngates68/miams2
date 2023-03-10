@@ -1,0 +1,1 @@
+<a href="<?= BASEURL; ?>deconnexion/token=<?= $token; ?>">Déconnexion</a>
